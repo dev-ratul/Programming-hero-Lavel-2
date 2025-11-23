@@ -40,3 +40,7 @@ type fun= (num1: number, num2: number)=> number;
 
 const function1 : fun =(num1, num2)=> num1+num2
 console.log(function1(1,2))
+
+
+
+// 
