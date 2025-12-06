@@ -6,3 +6,4 @@ type user1={
 
 type result1= "name"|"id";
 type user3 = keyof user1;
+
